@@ -1,0 +1,2 @@
+# Learning-MS
+Learning-MS is an e-learning platform that allows instructors to create and upload online courses for students. It provides a user-friendly interface for creating and managing courses. Students can browse and enroll in courses of their choice. Learning-MS also offers a dashboard for instructors to view their courses' analytics, such as enrollments. Built with Python and Django and follows best practices in web development and security.
